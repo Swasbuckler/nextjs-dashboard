@@ -1,5 +1,11 @@
-## Next.js App Router Course - Starter
+# This project followed the App Router Course from Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+The course used for this project can be accessed from Next.js' official website in the [learn section](https://nextjs.org/learn).\
+The course is specifically named "[App Router](https://nextjs.org/learn/dashboard-app)".
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+The application is hosted on Vercel and should be accessible through the URL in the description of this repository.
+
+## What have I Achieved and Learnt through this Project
+
+By doing this project I was able to gain a thorough understanding of the project structure and full stack development with next.js.\
+I aim to use this knowledge in future next.js projects as I hope to do more of them.
