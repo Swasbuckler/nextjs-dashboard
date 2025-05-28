@@ -7,5 +7,5 @@ The application is hosted on Vercel and should be accessible through the URL in 
 
 ## What have I Achieved and Learnt through this Project
 
-By doing this project I was able to gain a thorough understanding of the project structure and full stack development with next.js.\
-I aim to use this knowledge in future next.js projects as I hope to do more of them.
+By doing this project I was able to gain a thorough understanding of the project structure and full stack development with Next.js.\
+I aim to use this knowledge in future Next.js projects as I hope to do more of them.
